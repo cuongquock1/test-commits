@@ -1,0 +1,3 @@
+echo "File 5" > file5.txt
+git add file5.txt
+git commit -m "Add file5.txt"
